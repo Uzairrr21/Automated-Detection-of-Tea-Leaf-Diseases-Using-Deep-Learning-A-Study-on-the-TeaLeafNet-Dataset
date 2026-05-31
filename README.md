@@ -262,7 +262,6 @@ Total correct predictions: **734 / 750** (97.87%)
 | Li & Zhao (2025) | Real tea garden images | ECA-ResNet50 | 5 | 93.06% |
 | Ozturk et al. (2025) | Kaggle tea (8 classes) | 4-model Ensemble | 8 | ~94% |
 | Kabir et al. (2025) | Tea disease (8 classes) | CNN-Transformer + GWO | 8 | 97.72% |
-| Sayed et al. (2026) | Kaggle tea (8 classes) | 4-model Ensemble | 8 | 98.3% |
 | **This Study** | **TeaLeafNet (5,000 imgs)** | **Swin-T (two-phase) + TTA×7** | **4** | **97.87%** |
 
 **Key differentiators:**
